@@ -1,0 +1,6 @@
+{
+  "name": "Dinâmico Pro - Plaquinhas com QR Code Dinâmico",
+  "description": "Crie plaquinhas com QR Code dinâmico em poucos cliques. Gere em lote, personalize links e baixe em PDF pronto para impressão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
